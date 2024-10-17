@@ -38,7 +38,7 @@ IGNORE 1 ROWS;
 SELECT * FROM Sales_Dataset;
 
 
--- #Projects Questions:-
+-- #Project Questions:-
 
 -- Q1. Which are the top 5 states with the highest shipping costs?
 SELECT state, SUM(shipping_cost) 
