@@ -1,16 +1,16 @@
-# Ecommerce Sales Analysis using SQL
+## Ecommerce Sales Analysis using SQL
 
-## Project Overview
+### Project Overview
 
 Welcome to the **Ecommerce Sales Analysis using SQL** project! In this project, I dove into a comprehensive dataset to uncover valuable insights about ecommerce sales. The dataset consists of 21 features and 51,291 records, which provided a rich ground for analysis.
 
-## Dataset
+### Dataset
 The data I worked with is quite extensive, featuring:
 - **Rows:** 51,291
 - **Columns:** 21
 This dataset allows for a deep dive into various aspects of ecommerce sales.
 
-## Analysis Questions
+### Analysis Questions
 Throughout this project, I sought to answer some key questions that are crucial for understanding the business better:
 
 1. **Which are the top 5 states with the highest shipping costs?**
@@ -27,6 +27,6 @@ Throughout this project, I sought to answer some key questions that are crucial 
 12. **Are there seasonal trends in our sales?**
 13. **Which products are frequently bought together?**
 
-## Technologies Used
+### Technologies Used
 In this project, I primarily used SQL for data manipulation and analysis.
 
